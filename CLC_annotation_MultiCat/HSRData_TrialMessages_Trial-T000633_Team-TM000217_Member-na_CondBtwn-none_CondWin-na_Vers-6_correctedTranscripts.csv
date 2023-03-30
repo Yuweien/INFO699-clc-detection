@@ -1,0 +1,182 @@
+,message_id,participant,utt,start_timestamp,end_timestamp,corr_utt,Label,Score,Category,Note
+0,7055b374-2da0-4d2d-bf3b-978c81203889,BLUE_ASIST2,pathetic,01:10:00,01:10:00,,,,,pre-game
+1,80a6cf4a-b168-4e2a-b810-ad31c30fd2fd,BLUE_ASIST2,open up,01:13:00,01:14:00,,,,,pre-game
+2,f7122780-2873-4b8a-ae73-fde513d47d78,BLUE_ASIST2,paper dispenser,01:47:00,01:47:00,,,,,pre-game
+3,21a2eb2d-33b8-4b48-981e-5b1d1c8c67ea,BLUE_ASIST2,okay participants the one minute timer is up of these close that's like a fair die that means light,03:38:00,03:45:00,,,,,pre-game
+4,3f6d9688-8d25-4235-8922-b5678920cdf7,BLUE_ASIST2,okay we are about to start issue 1 C reminder you are encouraged to meet or identification and sight,03:51:00,4:1,,,,,pre-game
+5,80c76d6e-c8bf-43b1-8099-6f3a70027b5d,BLUE_ASIST2,always start most of the beautiful for example if you are transported C is the friend smaller at the start of every please refer to your teammates with yellow expecting close actually okay let's get ready for one note that gravel role at the starting zone will be B in place for two minutes you may use this time for discussions if you wish,4:2,04:30:00,,,,,pre-game
+6,aef534fe-2dae-4a64-8939-f9db6b398253,BLUE_ASIST2,okay there's only one for me,04:31:00,04:34:00,,,,,pre-game
+7,7abd7abd-ca45-4dbd-8231-047a83f7f6d4,BLUE_ASIST2,I think it's not over,04:38:00,04:40:00,,,,,pre-game
+8,56206b63-cf0d-47d3-b910-848b4e8cc658,RED_ASIST_2,yes,04:54:00,04:54:00,,,,,pre-game
+9,120bb0d4-7d15-430c-9739-94d8aa11b555,BLUE_ASIST2,so this is engineer in my critical Mission information I saw that it gave me we have severe moderate and Mild rooms and critical condition victims are likely to be in the severe room so I'm thinking we should Target the critical victims first to get the most points and then after that we can speed through and get um,04:54:00,05:14:00,,,,,pre-game
+10,a25ac0b7-ea51-4c4c-ba3d-2bd8b2d53b3f,BLUE_ASIST2,the leftover victims that should give us the other points what do you guys think,05:15:00,05:18:00,,,,,pre-game
+11,9f460c1a-f8e6-4421-94cd-5a8c24de8602,RED_ASIST_2,that sounds good so does it tell you which rooms are which,05:18:00,05:22:00,,,,,pre-game
+12,9ad011b2-c8c0-444d-8fc1-45656abedee5,BLUE_ASIST2,it tells me which it has like so for example it says severe and it shows me three rooms those being i4a E5 C4 so it gives me three of the rooms not every room that would have a critical,05:20:00,05:37:00,,,,,pre-game
+13,63053a41-395e-4061-aa15-db5b5bcc5e33,BLUE_ASIST2,purse,05:39:00,05:39:00,,,,,pre-game
+14,812ba715-5c07-4d8f-a9a7-52ce5c12156a,RED_ASIST_2,wait you said i4a C4 and which other room,05:38:00,05:41:00,,,,,pre-game
+15,a2609e44-ce90-421d-9da3-f1f6049b672e,BLUE_ASIST2,E5,05:41:00,05:41:00,,,,,pre-game
+16,45a840b9-ca37-481e-9dfb-938c83835411,RED_ASIST_2,B5 so those ones are more likely to be severe,05:42:00,05:44:00,,,,,pre-game
+17,b822e777-a6bb-4db4-848c-fe2c3017a75d,BLUE_ASIST2,yeah those ones are severe damage rooms and those ones are going to be more likely to have the critical victims,05:46:00,05:51:00,,,,,pre-game
+18,bb84df41-b8c7-42c1-a5d5-a72c81fa0da7,GREEN_ASIST2,pass,06:16:00,06:16:00,,,,,pre-game
+19,758a41ec-4fb2-4d30-b72b-be2f76a786a4,RED_ASIST_2,okay so this is the medic speaking I just got a list of rooms where meetings happen so I assume that these are the rooms that are most likely to have people and then so these are the rooms that we should check first C4 E5 and i4a were all included on that waste as well as A2 B9 D2 I2 M3 M1 but i-i have its we don't need to remember that but they're spread out,05:53:00,06:22:00,,,,,pre-game
+20,a14b9e6e-f9fc-453a-a703-d43a46e7f2ad,BLUE_ASIST2,meetings at work by C so this is engineer I,05:55:00,06:25:00,,,,,pre-game
+21,3d0e3688-9e26-4cc1-b29b-4cda79b41417,RED_ASIST_2,okay,06:38:00,06:38:00,,,,,pre-game
+22,6ec6b6c4-4921-49c4-b4b4-1c3462877c32,BLUE_ASIST2,notice you said M3 B9 A2 I2 those i c are mild and I2 is moderate so we could go down the list of severe to moderate to mild damage to get the I guess the most concentration of critical victims,06:25:00,06:40:00,,,,,pre-game
+23,2919c72e-958d-4331-bc9b-2ae97e2f651c,RED_ASIST_2,so you said I2 is moderate,06:40:00,06:42:00,,,,,pre-game
+24,b6f6ad2f-4682-49eb-a89c-2b349795be50,RED_ASIST_2,what are them,06:44:00,06:45:00,,,,,pre-game
+25,bf61e66f-920a-4744-93dc-1f65ab10c58d,BLUE_ASIST2,yes M3 is mild B9 is mild and A2 or mild,06:44:00,06:49:00,,,,,pre-game
+26,b744d539-4073-456d-8c09-ea77b06d6112,RED_ASIST_2,okay,06:50:00,06:50:00,,,,,pre-game
+27,28b7db46-5b3f-44b2-a43d-80d9cc47736b,RED_ASIST_2,okay,06:53:00,06:53:00,,,,,pre-game
+28,ee0af2bd-eb15-4724-bd6c-1b1e23ebac4c,BLUE_ASIST2,and,06:52:00,06:52:00,,,,,pre-game
+29,31e18b33-38ef-4ab4-bc66-ed225bae61ed,BLUE_ASIST2,all right,06:55:00,06:55:00,,,,,pre-game
+30,34eb4846-69bf-4676-8e7b-6dbfc0b4e99f,RED_ASIST_2,open for any information about D2 or M1,06:53:00,06:57:00,,,,,pre-game
+31,7f77d535-1a9c-4e88-a353-49af9f7fa01b,BLUE_ASIST2,yeah D2 and M1 are moderate,06:56:00,7:0,,,,,pre-game
+32,9513651b-324e-4522-8132-9df6fce4964f,RED_ASIST_2,transporter did you have any information,7:1,7:4,,,,,pre-game
+33,38e69408-0243-4f48-932d-f7f2f234d6e6,RED_ASIST_2,oh,07:15:00,07:15:00,,,,,pre-game
+34,6cbdf60c-3277-418a-b6ed-f02293a3ae32,GREEN_ASIST2,yeah yeah so this is the transporter I have the types of meetings and how many attendees are at each door where at each management meeting lunch and project meeting had two or more attendees the facilities meeting security training Human Resources meeting,7:6,07:26:00,,,,,pre-game
+35,3b587ebe-d6ad-4ef6-84ac-4f3b692dd6bb,GREEN_ASIST2,had one attendee and the storage reorganization zoom2 meeting in zoom2 from office for canceled,07:27:00,07:34:00,,,,,pre-game
+36,93daf8d2-c1a6-4679-b244-3c8faff99619,RED_ASIST_2,okay zoom2 from office has cancelled which other one was canceled,07:36:00,07:40:00,,,,,pre-game
+37,b1722b07-77c6-4a3d-b952-fbfdbf8bde72,RED_ASIST_2,okay,07:43:00,07:43:00,,,,,pre-game
+38,9241894b-2c46-4fca-9696-e8d5dc9da6a8,GREEN_ASIST2,the storage reorganization and zoom,07:41:00,07:43:00,,,,,pre-game
+39,c5078186-a59a-4bb5-8c1b-4481947a6250,BLUE_ASIST2,B medic which room,07:48:00,07:51:00,,,,,pre-game
+40,f16671a1-edf9-4201-a70b-48c2faa3ae1c,RED_ASIST_2,okay which this is medic which room had the most people,07:46:00,07:51:00,,,,,pre-game
+41,aaff0220-2f1e-4c4c-aa6f-f0186649f491,GREEN_ASIST2,management meeting lunch and project meeting,07:56:00,07:59:00,,,,,pre-game
+42,bb04ab7d-bc30-4a2d-a9bf-b4206a87b28e,RED_ASIST_2,and project we should yeah,8:5,8:9,,,,,pre-game
+43,5800ff11-73a6-4688-b66f-1f95a8ef4ef2,RED_ASIST_2,mmm,08:12:00,08:12:00,,,,,pre-game
+44,a7539f37-f585-46e9-8467-91f251a2a854,BLUE_ASIST2,so this is engineer room C4 this is one right really right in front of it says it's severe damage to this one should have a critical if we can get a medic to check,8:6,08:19:00,,,,,pre-game
+45,7ac24852-1086-466d-974f-142fefd076af,RED_ASIST_2,yes when is coming here to wake them up with me,08:22:00,08:26:00,,,,,pre-game
+46,40ca16a6-06a2-43c6-a0b9-da467524e18c,RED_ASIST_2,I'm gonna just take them outside the room and then the transporter can transfer friend too critical,08:29:00,08:34:00,,,,,pre-game
+47,4acc5e2b-c56c-47ee-9e69-ef23765edbf6,BLUE_ASIST2,okay just remember to put down which type they are a b or c,08:33:00,08:37:00,,,,,pre-game
+48,9935362f-0c75-4a4d-89ec-70141b538fb9,BLUE_ASIST2,okay,08:50:00,08:50:00,,,,,pre-game
+49,c320948f-43a3-4782-bc2b-7bf69a296174,RED_ASIST_2,I think we should head over after we're done with this to be the right side of the map this is the medic on the way because that has the most rooms that have,08:41:00,08:53:00,,,,,pre-game
+50,49dadd7d-162a-4038-bbd8-6569b3a90088,RED_ASIST_2,critical,08:54:00,08:54:00,,,,,pre-game
+51,97f38cfd-50b5-43c4-af74-c5c16fa3bda8,BLUE_ASIST2,yeah I agree,08:54:00,08:54:00,,,,,pre-game
+52,181750e3-2eab-4d12-bfd5-378457014cb8,RED_ASIST_2,this is C this yeah that's critical,08:59:00,9:0,,1b,3.0,info-provide,
+53,d8a21e2d-2120-4b14-85ed-7d530f37e14a,GREEN_ASIST2,so so this is the transporter was this an a b or c victim okay,08:54:00,08:59:00,,1a,,info-request,
+54,d6963b6f-5298-498e-854d-e314825eb2ca,RED_ASIST_2,so I'm going to go into,9:7,9:9,,,,,
+55,9421af81-e795-439b-b8a9-99213917b482,BLUE_ASIST2,pass,09:14:00,09:14:00,,,,,
+56,d6e10f04-98f1-442f-9cf4-23fa6944d2a6,RED_ASIST_2,this is medic and I'm going to go into one does that sound good,09:15:00,09:21:00,,2a,,commit,
+57,320bd325-b26a-4b85-838b-0059af580a48,RED_ASIST_2,yeah I think so,09:26:00,09:27:00,,,,,
+58,15f04a1c-1819-4b92-9306-fb9c4e532ca9,BLUE_ASIST2,yeah and then we just move our way forward through there okay M3 is a,09:19:00,09:28:00,,2b.3a,1.0,acknowledge.assert,
+59,0d89633e-c40a-484b-a006-2a73b239bf7a,BLUE_ASIST2,do you call it a threat room so I'll put down a sign there,09:30:00,09:32:00,,4a,,commit,
+60,633ffb7e-3cbc-41cb-8e1e-31eba5f2e188,RED_ASIST_2,okay,09:34:00,09:34:00,,4b,1.0,acknowledge,
+61,e5fb8ffe-2980-42b3-b764-f59afab261a3,RED_ASIST_2,M1 has a lot of rubble in it,09:36:00,09:39:00,,5a,,assert,
+62,a5685e39-3ba0-43a6-9b2c-dd5805c67f6a,BLUE_ASIST2,okay I'm coming,09:38:00,09:39:00,,5b,2.0,accept,
+63,fddd9e38-de19-498e-9e82-d7a02974c583,RED_ASIST_2,oh actually I just need you for to wake up Thursday become like common game,09:41:00,09:46:00,,6a,,action-directive,
+64,12ea5a4d-38f7-4927-bfb6-4f6a02bb659a,RED_ASIST_2,habit,09:55:00,09:55:00,,,,,
+65,fcfe5f96-4624-4af8-b69d-a78ecc5eb310,RED_ASIST_2,okay and then I'm going to do,10:0,10:3,,7a,,commit,
+66,0f07432b-4738-44a2-96de-52b3b82f0795,RED_ASIST_2,it's for transporter,10:4,10:5,,,,,
+67,0843fc2f-e494-4cc1-a111-588c0e995f37,RED_ASIST_2,this is the medic should I go into M3 or will I get stuck in there or actually your room,10:16:00,10:24:00,,8a,,info-request,
+68,18a21bd0-13c8-4358-9be0-d70527c4817b,BLUE_ASIST2,you can go in and then I can clear out the way,10:22:00,10:24:00,,8b,3.0,info-provide,
+69,bdd93fb4-011e-48d5-8ba8-a12cfd4a71b7,RED_ASIST_2,is critical victim hands,10:28:00,10:31:00,,9a,,assert,
+70,772f1ed5-1345-4be4-8849-c4e5de41f4bd,RED_ASIST_2,a non critical victim,10:34:00,10:34:00,,9a+,,assert,
+71,edb8baba-d32c-4dfb-93dc-6b38c5a565cf,BLUE_ASIST2,okay I'll help you out with the critical,10:33:00,10:34:00,,9b,3.0,accept,
+72,c58ab3ec-3b23-4e5e-a2bc-695b0867f54a,RED_ASIST_2,and then why don't you also grab the the non critical victim and then place them outside yeah there you go,10:41:00,10:49:00,,10a,,action-directive,
+73,5179725c-781e-4e45-9ced-e7d2b1b05233,BLUE_ASIST2,okay,10:47:00,10:47:00,,10b,1.0,accept,
+74,d18ab038-e511-49b4-a2a4-f4c339f06af4,RED_ASIST_2,let's make sure that they are separated so that we know who's who,10:52:00,10:56:00,,11a,,action-directive,
+75,6d995290-6a74-4881-a7a9-23136c15bab6,RED_ASIST_2,so let's go to i4a,10:58:00,11:6,,12a,,action-directive,
+76,7f407917-9ac2-4c9b-8e7f-86b684db1494,BLUE_ASIST2,yeah that's another one of the severe ones,11:9,11:11:00,,12b,2.0,accept,
+77,80071136-e203-4a1c-a2b6-d75c246eeccd,RED_ASIST_2,that's it,11:21:00,11:21:00,,12c,,acknowledge,
+78,d6bac00c-964e-4951-998b-6c72cff12f51,RED_ASIST_2,oh wow,11:29:00,11:29:00,,,,,
+79,143e7275-551d-458a-bafa-1cfbec0f5af4,RED_ASIST_2,what's up so like this gets weak B Street lunch first,11:32:00,11:34:00,,13a,,action-directive,
+80,0ba68d9d-54f8-47bd-8961-d92b96837a3e,BLUE_ASIST2,yeah there's a lot of critical here,11:32:00,11:33:00,,13b,2.0,accept,
+81,542049df-1b05-48c5-bc79-96cd70b6fea7,RED_ASIST_2,I can come over here to wake them up,11:38:00,11:40:00,,14a,,commit,
+82,6478c31d-879c-4d6f-b3e9-1cea6fac3dd4,BLUE_ASIST2,yeah,11:38:00,11:38:00,,14b,1.0,acknowledge,
+83,33c31c85-c9ba-465f-b6dd-f5527a26d4bd,RED_ASIST_2,and then we,11:44:00,11:46:00,,,,,
+84,9a8c517d-a02f-4b94-9c05-230ea27380b5,RED_ASIST_2,this personality,11:48:00,11:48:00,,,,,
+85,111a5016-a03f-43ad-9d30-ac2bb82f0c39,BLUE_ASIST2,you have to put what type that was the a b or c,11:56:00,11:58:00,,15a,,action-directive,
+86,3bf225c4-0869-4ba2-8b68-c161b23c8e19,RED_ASIST_2,but I think I did I put on my floor,12:1,12:3,,15b,3.0,info-provide,
+87,4f9cb5ca-1f59-4329-b1f2-29793ba98a86,RED_ASIST_2,can you come over here,12:4,12:4,,16a,,action-directive,
+88,ad09e520-deba-4b01-a2b7-f7b8eb81fb3a,BLUE_ASIST2,no it's yeah it's a critical sign it's not which type,12:2,12:8,,17a,,assert,
+89,6d23f204-5a0c-4fab-a781-a1b2d94ed575,RED_ASIST_2,bull critical is the same thing as C,12:9,12:10:00,,17b,3.0,info-provide,
+90,089020c4-32f0-4805-b8e4-b05d25a05721,BLUE_ASIST2,okay sorry,12:11:00,12:12:00,,17c,,acknowledge,
+91,58df33fe-fd58-4d23-a995-6511bc4fe462,BLUE_ASIST2,yeah that works,12:18:00,12:18:00,,17c+,,acknowledge,
+92,c53fa4fe-4241-4517-9a00-11c7978d65f2,RED_ASIST_2,so anytime and they're all going to be critical so I'm just going to place them all you can I'm good here so if you want to go ahead and find the Next Room,12:13:00,12:23:00,,18a.19a,,assert.action-directive,
+93,aaaacb41-f779-4549-a8ae-d2cfc6df031a,RED_ASIST_2,it's further said that the,12:28:00,12:29:00,,,,,
+94,c62c4f27-71b7-44ce-814e-8cfa52b029eb,BLUE_ASIST2,okay,12:25:00,12:25:00,,18b.19b,1.0,acknowledge.accept,
+95,8a91b515-c856-4147-a290-24a931605cb9,RED_ASIST_2,I2 meeting was canceled so I don't know if we need to check,12:32:00,12:36:00,,20a,,assert,
+96,533581bc-ece1-41cd-add7-bfba7fb0948c,BLUE_ASIST2,B Tech,12:35:00,12:37:00,,,,,
+97,7201283b-2d7d-49b0-bbad-01a228a17a63,BLUE_ASIST2,I3 didn't have anyone in it,12:49:00,12:51:00,,21a,,info-request,
+98,db59ad9f-7d96-4a94-a29a-6ce6c4cdcd95,RED_ASIST_2,pass,12:52:00,12:52:00,,,,,
+99,d60596d0-3e20-42a8-804e-d1bf95d9e849,BLUE_ASIST2,Magic,13:12:00,13:12:00,,,,,
+100,20dee759-3583-4631-8e4b-40ab422dd47e,RED_ASIST_2,this is the medic I'm gonna make my way over to D2 I think that was another one where there was kind of,13:10:00,13:19:00,,22a,,assert,
+101,50c48cdf-54e3-4936-ab1a-12e934edd784,RED_ASIST_2,critical,13:20:00,13:20:00,,22a+,,assert,
+102,ffc42e7c-0a3e-48f9-871d-8e89f88e988c,BLUE_ASIST2,G2 okay,13:21:00,13:22:00,,22b,2.0,acknowledge,
+103,69c2ef47-39cd-479a-8cfe-a77089839e53,BLUE_ASIST2,I'll just keep working through on this little green block of,13:24:00,13:27:00,,23a,,commit,
+104,41639efb-595f-4e46-b3d3-c25759587ace,RED_ASIST_2,okay,13:31:00,13:31:00,,23b,1.0,acknowledge,
+105,c3c8c0f1-8ac3-41dc-afa4-a1c16f99a2be,BLUE_ASIST2,buildings,13:30:00,13:30:00,,,,,
+106,a2b406a5-0257-4dbb-b7cc-ed893215cf6c,RED_ASIST_2,this is not a transporter how you doing are you just taking,13:36:00,13:39:00,,24a,,info-request,
+107,57117eba-b3a4-4651-ad9d-004742227803,RED_ASIST_2,Wickham's,13:42:00,13:42:00,,24a+,,info-request,
+108,e9bd6a86-310b-4e0d-a9ad-3a778f322e3c,RED_ASIST_2,okay where are you I can meet you there and double-check,13:55:00,13:58:00,,24a++,,info-request,
+109,2734e92c-e62e-400f-8a94-2ddd125c6d0c,BLUE_ASIST2,where are you,13:57:00,13:57:00,,25a,,info-request,
+110,7a6cd919-872e-42c9-b003-1e613a139aff,GREEN_ASIST2,yeah this is this is a transporter of one of the victims you place down for some reason isn't like being accepted as type B I'm at M3,13:38:00,14:0,,24b.25b,3.0,info-provide.info-provide,
+111,3ed953c7-d69f-48b3-ac5d-024ffb43f860,RED_ASIST_2,okay,14:2,14:2,,24c,,acknowledge,
+112,14cb6e59-61a7-45ba-ad93-b8ced1acea1c,BLUE_ASIST2,if you want we can keep moving forward,14:5,14:7,,26a,,action-directive,
+113,1330e874-6246-4519-9a56-9964df243069,RED_ASIST_2,if you want you can keep moving forward and then I can take care of that victim,14:5,14:8,,27a.28a,,action-directive.commit,
+114,e92e3059-78d0-4959-81f0-0c2e0634faec,GREEN_ASIST2,okay,14:9,14:9,,26b.27b.28b,1.0,accept.accept.acknowledge,
+115,1f18e85b-6237-45f1-a380-c568a02c4468,RED_ASIST_2,engineer this is medic it D2 has a lot of rubble I'm not sure if there's a victim in they're not but if there is weak,14:13:00,14:21:00,,29a,,assert,
+116,b5610a94-e95d-47f4-9bdf-7009869e9bd0,BLUE_ASIST2,D2 is moderate I'll head over to you right now,14:13:00,14:23:00,,29b.30a,3.0,info-provide.commit,
+117,79617ba2-862a-4369-a2ec-3fb43472b788,GREEN_ASIST2,oh this is the transport engineer I'm going to need you to clear the rubble in front of North Zone C,14:30:00,14:39:00,,31a,,action-directive,
+118,1dd62365-8755-49bd-b346-5f7ff872b462,BLUE_ASIST2,okay,14:41:00,14:41:00,,31b,2.0,accept,
+119,fbd55536-5a35-413a-afc2-0f539e97fa93,BLUE_ASIST2,let me help out medic real quick and I'll be able for transporter,14:43:00,14:47:00,,31b+,2.0,accept,
+120,4d806311-8195-453a-9c16-362fcc9d1310,GREEN_ASIST2,okay,14:49:00,14:49:00,,31c,,acknowledge,
+121,1ec6fbcd-4e9b-4eab-906e-1cb72620cd47,BLUE_ASIST2,Medic in G3 I believe there's two regular victims,15:52:00,15:57:00,,32a,,assert,
+122,6ab1306c-4295-4fd8-88d1-cc0024f8b7eb,BLUE_ASIST2,I'm working on clearing out north Zone C transport,16:2,16:6,,33a,,assert,
+123,21b82681-05e5-4e9a-b83f-04cd5dbdec0f,GREEN_ASIST2,okay,16:23:00,16:23:00,,32b.33b,1.0,acknowledge.acknowledge,
+124,4261cdf3-4136-4030-9879-45e272d02ad9,GREEN_ASIST2,thank you,16:33:00,16:33:00,,33b+,1.0,acknowledge,
+125,54f86015-acaa-4468-b2d8-c5b868ee9ccd,RED_ASIST_2,is this medic transporter I put the couple victims one A1 B by North Zone C,16:47:00,16:57:00,,34a,,assert,
+126,e0c75424-c461-4f27-bf60-da0be167ed0d,GREEN_ASIST2,okay,16:59:00,16:59:00,,34b,1.0,acknowledge,
+127,412b8ea8-a810-4fe3-9291-1671b49fddb7,RED_ASIST_2,who's the person who has the job that can tell whether there's going to be victims in a room or not,17:1,17:6,,35a,,info-request,
+128,cc2e29ee-4a9f-4666-a982-ccd4d88c3f05,RED_ASIST_2,the transporter the engineer,17:9,17:10:00,,35a+,,info-request,
+129,8c212e63-1e0b-4ce3-8631-2adccc3936c8,BLUE_ASIST2,B transporter I don't have that ability,17:10:00,17:13:00,,35b-1,3.0,info-provide,
+130,35104033-7bf7-49be-a284-76f50dab3608,RED_ASIST_2,okay,17:14:00,17:14:00,,35c,,acknowledge,
+131,a7add75c-be44-4f3b-a132-ca0f48566da8,RED_ASIST_2,so when,17:27:00,17:27:00,,,,,
+132,3f1ef44c-44bb-4454-ab08-30f47dcbedf6,GREEN_ASIST2,okay this is the transporter I can see how many attendees were supposed to be different rooms do you need a specific type right now,17:15:00,17:28:00,,35b-2.36a,3.0,info-provide.info-request,
+133,9c4139cd-a141-4659-9fb1-0345728ba572,RED_ASIST_2,no I just meant when you go to step on like the red a little symbol right in front of the door,17:29:00,17:35:00,,36b,3.0,info-provide,
+134,81a29f3f-9d27-4e68-8fd2-af1bbacc8548,RED_ASIST_2,door,17:36:00,17:36:00,,,,,
+135,1c018b94-d758-4bc3-b13c-66e935990b96,RED_ASIST_2,okay,17:40:00,17:40:00,,,,,
+136,e60b1d71-0915-4dd6-a7df-1a379c15ddc4,GREEN_ASIST2,hmm I can see oh yeah with what kind of victims detected this one doesn't have any,17:36:00,17:41:00,,36c,,info-provide,
+137,71a22fb4-3693-4184-9663-75639008681a,RED_ASIST_2,can you go to there's a there's an area of back here,17:42:00,17:45:00,,37a,,action-directive,
+138,229bf85c-edaa-4c1f-bbe2-2d91b427e799,RED_ASIST_2,where there's a lot of rubble so it's I think it's back here move every one of these rooms has Rubble so if you can,17:47:00,17:54:00,,37a+,,action-directive,
+139,1cd29e4f-9969-4120-9475-3f4bcc3816b9,RED_ASIST_2,you know where I am I'm in like that E and F area,17:57:00,18:0,,37a++,,action-directive,
+140,4514c66a-b600-45c3-8cfa-d9a59b562b1b,RED_ASIST_2,right here right behind you,18:4,18:5,,37a+++,,action-directive,
+141,fa7784ff-3a03-4206-8528-3f43e2e5650f,BLUE_ASIST2,do you want me to come over there Medic or,18:4,18:5,,37b-1,3.0,follow-up-question,
+142,6591bd9d-d5eb-46b4-a9c0-021a77066052,GREEN_ASIST2,yes,18:5,18:5,,37b-2,1.0,acknowledge,
+143,4a53add9-8a07-4536-a79f-3043364dd2bc,RED_ASIST_2,hold on,18:6,18:7,,38a,,assert,
+144,144e3bf4-0547-45c0-95b3-0c40e95c31a2,RED_ASIST_2,his medic green,18:9,18:9,,38a+,,assert,
+145,a284515c-edfb-48b9-80b1-c753ec80c8ee,RED_ASIST_2,I'm sorry transporter friend zone him okay so in this area over here transporter and you just check all these rooms and then put a symbol on which ones have,18:13:00,18:23:00,,39a,,action-directive,
+146,d747124a-e659-4221-8a26-0b6a5c786572,RED_ASIST_2,victim Zoar,18:25:00,18:25:00,,39a+,,action-directive,
+147,59355da2-0ec1-42e5-beb1-47551cfa772b,BLUE_ASIST2,I'm sorry so In This Very Room,18:13:00,18:18:00,,39b-1,2.0,acknowledge,
+148,78ffb103-c3dd-45ce-8cac-cec6d19a574d,GREEN_ASIST2,okay,18:25:00,18:25:00,,39b-2,1.0,accept,
+149,ef7621c5-a265-4f7e-8cfd-f850176e6da8,RED_ASIST_2,thank you,18:28:00,18:28:00,,39c,,acknowledge,
+150,81bb9268-88eb-4cf1-8e20-8d1f8439aff6,BLUE_ASIST2,this is engineer I'm near buildings B7 right now I found some people I put down the symbol and I let them outside of the building so you don't have to go inside the buildings,18:31:00,18:41:00,,40a,,assert,
+151,3c340648-512e-4de5-9c83-12a220911dc0,RED_ASIST_2,you are a chance engineer to look at,18:44:00,18:46:00,,,,,
+152,56dbdc58-c039-44da-baa3-7fa54b79f771,RED_ASIST_2,here okay nevermind D2 is clear thank you,18:48:00,18:52:00,,41a,,assert,
+153,a6f21db0-7227-4c94-bee8-729dfa63c29f,RED_ASIST_2,this medic I just placed a,19:15:00,19:17:00,,42a,,assert,
+154,450a68f5-2652-4f39-a236-2f0094870f0d,RED_ASIST_2,victim Cannon the South,19:18:00,19:20:00,,42a+,,assert,
+155,520d6033-21ad-4298-b7a1-ac4f769455f5,RED_ASIST_2,hallway not sure what you call it then a victim so if you ever gone to the transporter,19:22:00,19:28:00,,42a++,,assert,
+156,cf4b27d2-80e9-4d08-8499-bf45d5391c49,BLUE_ASIST2,this is engineer there's a critical victim and I believe that's A4 and there's a regular victim outside of a door marked it on the map there's also a threat zone here so when you come here just let me know and I'll clear out the way they are,19:37:00,19:56:00,,43a,,assert,
+157,4356aaab-a001-4d4d-84e5-c407300bf702,RED_ASIST_2,okay I think there is also a critical victim,19:56:00,19:59:00,,43b,3.0,acknowledge,
+158,e9ef0015-7a38-40ee-ba32-a661b46052c5,RED_ASIST_2,over here there's a critical victim in K2 so I'm going to need someone to come with me to wake them up,20:6,20:12:00,,44a.45a,,assert.action-directive,
+159,afad8acb-1d58-4eed-8dca-8ef7fbaea142,BLUE_ASIST2,okay I'll work down A3 and I'll come with you,20:6,20:13:00,,44b.45b,3.0,acknowledge.accept,
+160,535b54d7-2fc5-41be-95fb-1252c16020aa,RED_ASIST_2,are there any more victims in this area,20:14:00,20:16:00,,46a,,info-request,
+161,20490d15-8baf-411a-8a9d-20b5117962c6,BLUE_ASIST2,no I believe it's clear,20:17:00,20:18:00,,46b,3.0,info-provide,
+162,a460ba3f-d392-443f-b0b5-eb02c34b5252,RED_ASIST_2,places,20:22:00,20:22:00,,,,,
+163,c618c89f-3c17-4295-aab6-bf46071987b3,RED_ASIST_2,okay,20:28:00,20:28:00,,,,,
+164,8a218f3a-88d2-4161-89d3-5c1d69da9563,BLUE_ASIST2,I'm going to check a4a just in case though because I don't think I went there yet,20:24:00,20:27:00,,47a,,assert,
+165,ab00c20f-6667-43c2-8308-97e942744ccc,BLUE_ASIST2,yeah clear,20:31:00,20:31:00,,48a,,assert,
+166,c4f9be60-b2f0-4f50-826d-d0c0ff1eaabb,RED_ASIST_2,let's go to A2 you're running you start heading that way and I'll meet you there,20:42:00,20:46:00,,49a,,action-directive,
+167,19eda31d-7a6f-4a7e-9a25-f667c88392bd,BLUE_ASIST2,yeah there's one right here,21:2,21:2,,49b,2.0,info-provide,
+168,b52d40c8-80d5-41a2-946d-d9e35b16b688,RED_ASIST_2,if you want to keep,21:6,21:7,,50a,,assert,
+169,c0161375-e823-4c9a-af7f-75a38e314ba4,RED_ASIST_2,on we can help sorry John take this transporter,21:9,21:11:00,,50a+,,assert,
+170,8a6a0666-ff0a-4c50-8435-c930be3f93af,BLUE_ASIST2,A3 the library looks clear,21:38:00,21:40:00,,51a,,assert,
+171,2aba100c-b71f-4ce5-8e1e-a39dd2ec5fe8,BLUE_ASIST2,I don't know if it done son,21:43:00,21:44:00,,,,,post-game
+172,bc6fc680-8b9c-4ec6-b575-f86b0fcefcc2,BLUE_ASIST2,all right question,21:58:00,21:59:00,,,,,post-game
+173,0918d260-d031-4949-a8e4-8b3bd3c5f402,BLUE_ASIST2,all right one question,22:23:00,22:33:00,,,,,post-game
+174,ac80748f-a1ad-4769-b1c4-72aa7f937738,BLUE_ASIST2,you are in a restaurant advisor so at the end of the survey work there are questions asking you to evaluate yet either,22:36:00,22:44:00,,,,,post-game
+175,2a17772a-0f32-4a20-aa55-e87686379b47,RED_ASIST_2,this is the make speaking do we know what score we got on their first mission,1900-01-01 01:10:00,1900-01-01 01:13:00,,,,,post-game
+176,3bc0f211-6929-4d54-b6d3-f6a43e098fb5,BLUE_ASIST2,oh yeah yeah,1900-01-01 01:18:00,1900-01-01 01:18:00,,,,,post-game
+177,89392610-b3e1-4c0a-8dad-16db8f2bb795,RED_ASIST_2,okay thank you,1900-01-01 01:20:00,1900-01-01 01:22:00,,,,,post-game
+178,72045618-9b66-4ba3-aa61-dcb263b1b480,BLUE_ASIST2,this is engineer I finished the survey,1900-01-01 02:52:00,1900-01-01 02:54:00,,,,,post-game
+179,9fa307ff-3e64-40a7-9d92-d58e73c55e76,GREEN_ASIST2,and this is the transporter I also finished it,27:2,27:5,,,,,post-game
+180,038653c4-1ec0-49a5-94dd-31a0533db3c1,BLUE_ASIST2,stop,1900-01-01 05:12:00,1900-01-01 05:12:00,,,,,post-game

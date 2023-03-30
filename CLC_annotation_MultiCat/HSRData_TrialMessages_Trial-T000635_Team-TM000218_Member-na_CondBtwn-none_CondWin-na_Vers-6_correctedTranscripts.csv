@@ -1,0 +1,109 @@
+,message_id,participant,utt,start_timestamp,end_timestamp,corr_utt,Label,Score,Category,Note
+0,1d5bf3ce-9afe-4c27-a257-97c636a7007e,BLUE_ASIST1,hi this is engineer and I have I know the damage of each room and I think what I want the plan to B is I can tell you guys which rooms are most severe which ones are more moderate and which ones are mild,03:39:00,03:56:00,,,,,pre-game
+1,6e357f70-a7f1-4df9-8baa-cae4f3c54186,GREEN_ASIST1,this is transport I have a minimum of nine people,03:59:00,4:5,,,,,pre-game
+2,2081538f-8684-4ebe-b2ed-a540364c7ded,GREEN_ASIST1,and it confirmed locations I can give you guys though,4:8,4:9,,,,,pre-game
+3,e0c8c850-2d8e-43bb-b967-d0a37f39bd39,GREEN_ASIST1,when we're ready,4:7,4:7,,,,,pre-game
+4,70d6ec7b-c1e9-435a-be5b-c853f5e362f2,BLUE_ASIST1,and this is engineer do we want to make a plan for where we go first and how we stick together,04:11:00,04:16:00,,,,,pre-game
+5,37a53c93-e123-4f50-9117-8f35aa7c562c,RED_ASIST1,this is medic,04:18:00,04:18:00,,,,,pre-game
+6,d70a94c5-a10f-4d98-a804-b60e02581041,RED_ASIST1,honestly what seemed to be working best last time when we just did like the intro one was transported are going ahead marking room is whether they have a victim or they don't have victim I think if you kind of go ahead and label all that and made it easy for engineer and I it's a go through and he went around cleared Rubble if there was rubble and then if there was a critical victim he was able to help me,04:22:00,04:51:00,,,,,pre-game
+7,9b46d975-2ff4-4b77-86e1-b34dc27331a3,RED_ASIST1,and then I will be happy to bring the victims into like the main Halls like I did last time,04:52:00,04:59:00,,,,,pre-game
+8,7e5ce1bf-435c-4140-ac95-938715c2e4a2,GREEN_ASIST1,this is transport I'm on board with doing that I'll go off to the farthest reach from where we are and label eyes I go medic if you can just as you're removing people Mark the rooms as empty but I would be I'd be most helpful,5:2,05:20:00,,,,,pre-game
+9,5f55ccdd-5988-42e3-b985-813a0894e9ac,RED_ASIST1,this is medic yeah no problem,05:22:00,05:23:00,,,,,pre-game
+10,3643bcd5-2469-4da1-a32a-ee49b45d502f,BLUE_ASIST1,this is engineer I also have the threat locations and I will be marking those but in case you guys want to know beforehand so you can be aware and not get trapped right at the beginning they are at the C2 D3 and h1a those are the closest three,05:23:00,05:45:00,,,,,pre-game
+11,1956f026-b2b7-4db3-a20f-e319daf29dbe,RED_ASIST1,this is medic I will be starting by going left to A1,05:47:00,05:52:00,,,,,pre-game
+12,c21daf76-34ec-48a9-b029-1726d9ab07cd,GREEN_ASIST1,this is this is transporter I'm going off far right along the embera,05:56:00,6:0,,,,,pre-game
+13,e315cd79-63f5-4e1f-9773-43b8b76ea756,BLUE_ASIST1,this is engineering I'll be following medic,6:2,6:4,,,,,pre-game
+14,bbb33398-d41f-4d26-9666-fdb3e78998e7,BLUE_ASIST1,this is medic please mark that,06:26:00,06:29:00,,,,,pre-game
+15,e2ac63d7-0c88-48e8-985e-358778407b62,BLUE_ASIST1,sorry this is engineer I meant to say this is engineer,06:35:00,06:37:00,,,,,pre-game
+16,c195b67e-1960-4f03-9192-6a6fab465ba6,GREEN_ASIST1,this is transporter the rubble along the walls of the m road is not instruction to anything,7:9,07:14:00,,,,,pre-game
+17,c1e8d95e-5ee8-4874-9a6a-222a8f47c360,RED_ASIST1,this is medic engineer if you wouldn't mind there is rubble and A3 if you could just clear path through the middle column of it to make sure that there are no victims,07:18:00,07:33:00,,,,,pre-game
+18,840671bc-9746-4ae9-b0c6-dbdc65c94058,BLUE_ASIST1,this is engineer I'll be doing that,07:34:00,07:36:00,,,,,pre-game
+19,dfc173b9-6593-4469-8e62-f13ec69e0f88,GREEN_ASIST1,this is transporter I have rubble and a regular victim in G3,07:53:00,8:1,,1a,,assert,
+20,04cf8a3c-09d3-492a-8cae-112318d9bbd9,BLUE_ASIST1,hey this is engineer I think we'll get to that later but be sure to mark it,8:5,08:10:00,,1b,2.0,accept,
+21,d5ca5179-a261-4f38-b6a0-5154a21cdf3d,GREEN_ASIST1,it's marker transport of this marker,08:12:00,08:13:00,,1c,,acknowledge,
+22,175653f0-18c5-4f09-bf4a-60507c1660dc,RED_ASIST1,this is medic there is a critical victim in A4 and Rubble that needs to be cleared in sight of A4 as well,08:22:00,08:31:00,,2a,,assert,
+23,faf6b938-8e41-4af3-bee2-8121c516ad23,BLUE_ASIST1,this is engineer I am coming,08:33:00,08:34:00,,2b,2.0,accept,
+24,fabc6375-5026-4191-b7a0-26b592144ccd,RED_ASIST1,are you serious is clear,08:42:00,08:42:00,,3a,,assert,
+25,a02de515-00b6-4af1-9ab3-e85cfa1da3f4,RED_ASIST1,this is a medic transporter if you don't mind grabbing this save block it is type A or actually you grab their critical F1 that's fine just make sure to mark it as critical,08:58:00,9:8,,4a,,action-directive,
+26,fc971952-79d7-4b87-9983-81670539fd06,GREEN_ASIST1,this is transport confirmed engineer did you have information on D3,09:10:00,09:15:00,,5a,,info-request,
+27,958e815b-fe65-419e-8bc9-ef95f603c1c2,BLUE_ASIST1,this is engineer and yes D3 is the threat room,09:16:00,09:21:00,,5b,3.0,info-provide,
+28,b5451767-d7cf-4d10-a9b7-cbfaf8c1d553,GREEN_ASIST1,this is transporter there is a critical inside the threat room,09:23:00,09:26:00,,5c,,info-provide,
+29,c4590526-e5b8-4e4c-afc8-7827a574fd3d,BLUE_ASIST1,this is engineer in medic if you get to C2 there is a critical and regular victim,09:50:00,09:58:00,,6a,,assert,
+30,cfcf06d7-d0ff-4549-8453-4617496f448f,BLUE_ASIST1,but be warned that it is block all right is a threat room,10:0,10:4,,6a+,,assert,
+31,79c61a7b-cbc0-490f-9af6-182735154872,RED_ASIST1,this is Medic in room C8 there is Rubble that needs to be cleared,10:5,10:10:00,,7a,,assert,
+32,d52ade77-1fa6-492a-99f6-87102a6833db,BLUE_ASIST1,this is engineer I'm on my way,10:11:00,10:13:00,,7b,2.0,accept,
+33,9b259c5e-6c20-43df-b519-d9f4e2da8ead,RED_ASIST1,this is my A3 find anything in there,10:41:00,10:43:00,,8a,,info-request,
+34,77f6aeb5-abc0-4ff7-9e03-42d7d3cc29b8,RED_ASIST1,okay,10:47:00,10:47:00,,7c,,acknowledge,
+35,efa5f252-7be8-4793-884a-cc7d27b72665,BLUE_ASIST1,this is engineer no I did not I've marked it,10:44:00,10:47:00,,8b,2.0,info-provide,
+36,e85b9561-3e0c-41a1-902f-68dbf48d0e3f,RED_ASIST1,this is medic transporter have you checked all the rooms,10:49:00,10:51:00,,9a,,info-request,
+37,570c26db-20b4-4164-a1a4-d070603defdd,GREEN_ASIST1,this is transporter I,10:52:00,10:53:00,,9b,3.0,info-provide,
+38,768c6b7a-adce-4fd3-8ff9-8d97cb4d52f6,GREEN_ASIST1,I move confirm but I believe I've checked all the rooms,10:55:00,10:57:00,,9b+,3.0,info-provide,
+39,35cb7e8e-9f5f-407c-9e00-95fefcab5bc9,BLUE_ASIST1,this is engineer and I'm moving on to the Zone C area,10:58:00,11:1,,10a,,assert,
+40,9bee89fb-c6fd-41e0-8d9e-2e40a09233c0,RED_ASIST1,this is medic I need help with a critical victim in room C 4,11:3,11:6,,11a,,action-directive,
+41,a4cff581-bd76-493e-8b92-9a89ed60651e,BLUE_ASIST1,this is engineering can transport room please help him with that,11:8,11:12:00,,11b-1,2.0,follow-up-question,
+42,8d5a9792-0578-4470-a476-b6abc8bc01df,GREEN_ASIST1,can you repeat the location,11:15:00,11:16:00,,11b-2,2.0,follow-up-question,
+43,c3d7212e-7be8-46ea-bff0-d9c0a9d726c8,RED_ASIST1,this is medic room C4,11:16:00,11:19:00,,11c,,info-provide,
+44,fda1c068-fdb7-493a-ad6c-2dc5164f5bd7,GREEN_ASIST1,C4,11:19:00,11:19:00,,11b-3,3.0,accept,
+45,bf04d047-9532-4635-bdda-b2de039c0369,GREEN_ASIST1,all right,11:22:00,11:23:00,,11b-3+,3.0,accept,
+46,aa99c591-864e-4bad-9b30-d31e9f73bca9,GREEN_ASIST1,this is transporter we had a red one in A4 that was marked as an issue but there's nothing there,11:25:00,11:33:00,,12a,,assert,
+47,b47bc1d8-f8cb-445e-8fb0-1b685ee30f4b,GREEN_ASIST1,also to engineer I am stuck in D4,11:38:00,11:42:00,,13a,,assert,
+48,c06e299c-6906-43c5-88a7-1148c5275c30,BLUE_ASIST1,this is engineer can you please repeat Where You Are,11:43:00,11:45:00,,13b-1,3.0,follow-up-question,
+49,ad1e6a9f-589d-4c68-afb1-accc55a93997,GREEN_ASIST1,transporter I am stuck in room A4,11:47:00,11:49:00,,13c,,info-provide,
+50,d23657b7-736c-43bb-8016-ac98d532215a,BLUE_ASIST1,this is engineer I'm on my way it will be a while though,11:50:00,11:53:00,,13b-2,2.0,accept,
+51,74c1eab4-3969-48c0-9a6b-7b2408510db0,BLUE_ASIST1,this is engineer we have eight minutes left and there is also do know that there are more critical victims in i4a and E3 5 that are marked with severe damage,12:4,12:26:00,,14a,,assert,
+52,7aa5c50c-3dbd-409e-b2ea-5bcc09244e75,RED_ASIST1,this is medic I am trapped in room B8 and there is also a critical victim that I need help with inside a B8,12:29:00,12:35:00,,15a.16a,,assert.action-directive,
+53,fab26041-1698-472e-9898-5f79ab8a781c,BLUE_ASIST1,this is this is engineer I'm on my way,12:37:00,12:39:00,,16b,2.0,accept,
+54,279688ad-9e81-41d1-80c3-22849ea90b0c,GREEN_ASIST1,this is transporter or engineer once you get him go on and clear other data and I'll transport the people back,12:43:00,12:50:00,,17a,,commit,
+55,ee417bab-667e-4e1a-850e-d75635c72c92,BLUE_ASIST1,this is engineer here sorry can you repeat that,12:52:00,12:54:00,,17b-1,3.0,follow-up-question,
+56,338c0d69-bc5b-4522-b0b4-63c405bbe83b,GREEN_ASIST1,this is transporter I was just telling you I was going to join with him until you go off and clear other information,12:56:00,13:1,,17c,,info-provide,
+57,179e3541-cda7-4dc1-a770-f24675eb85de,BLUE_ASIST1,all right this is engineer and I confirm,13:3,13:4,,17b-2,1.0,acknowledge,
+58,f63c6c2a-7760-42c9-b412-9bada50316aa,GREEN_ASIST1,transporter could you are not transport that's me this is transporter medic could you come to Zone a and remind me what victim type I have,13:7,13:19:00,,18a.19a,,action-directive.info-request,
+59,588a004f-f554-49cf-965b-3d42b55245af,RED_ASIST1,this is medic I believe that was type A,13:21:00,13:23:00,,19b,3.0,info-provide,
+60,cfb61d95-1ff4-4c2f-8129-1cd0a3dc5021,GREEN_ASIST1,type A this transporter confirm,13:25:00,13:26:00,,19c,,acknowledge,
+61,d323caac-18c3-443f-a8f3-5d49b25503c7,GREEN_ASIST1,it was type A,13:30:00,13:30:00,,19c+,,acknowledge,
+62,d6c3026f-727a-4859-9ed5-caa6575d42d5,RED_ASIST1,this is medic engineer when you have the chance North Zone C is blocked off,13:32:00,13:37:00,,20a,,action-directive,
+63,7b027657-63fb-4b9b-a46c-f0ef4fb29a6c,BLUE_ASIST1,this is engineer and I'm on my way,13:40:00,13:41:00,,20b,2.0,accept,
+64,9ccc512c-0d3e-49da-97b3-b765b83e0f23,RED_ASIST1,this is medic transporter if you would come to the Ms and the elves on the far right side of the map there are a lot of critical victims that I will need help with,13:56:00,14:7,,21a,,action-directive,
+65,7486ae0c-3ace-4e40-809a-4e0d6ccc5a1e,GREEN_ASIST1,this is transporter confirmed,14:9,14:10:00,,22a,1.0,accept,
+66,660da663-010b-4d9e-b7ee-64b20c5e1011,GREEN_ASIST1,I am bringing along a victim as well that I don't have a tight Bond I'm going to leave him in right outside Zone C,14:12:00,14:21:00,,23a,,assert,
+67,46be3c92-c186-49b3-8d13-e438c6f01180,GREEN_ASIST1,Transporter 2 medic view which room are you in currently,14:36:00,14:39:00,,24a,,info-request,
+68,9b72f2c4-e337-4684-a07b-8e55576badc6,GREEN_ASIST1,it's M3 transporter C M3,14:49:00,14:52:00,,24a+,,info-request,
+69,a4e25a9d-62e0-4bf1-9912-06da72edb61a,RED_ASIST1,this is medic I am in I will be in a North most one I think it's M3 I believe you,14:40:00,14:51:00,,24b,3.0,info-provide,
+70,34aa55f2-3e93-4b4e-ad79-45162df83ca8,RED_ASIST1,this is medic this is a tight B,15:4,15:6,,25a,,assert,
+71,29aa2121-003f-4514-955f-c08d928e9781,BLUE_ASIST1,this is engineering I'm cleaning the area of rubble,15:13:00,15:16:00,,26a,,assert,
+72,2c3852d0-f20f-45f4-a0dd-7820a7e195ce,GREEN_ASIST1,this is medic,15:24:00,15:24:00,,,,,
+73,1ae53d07-6de7-4ea2-8ba6-a05aebf274dd,RED_ASIST1,this is medic we are stuck in room M3,15:23:00,15:26:00,,27a,,assert,
+74,72b908db-4c5a-421a-8cbf-326b46f124ae,BLUE_ASIST1,this is engineer I am on my way can you please mark it with an SOS signal,15:30:00,15:34:00,,27b.28a,2.0,accept.action-directive,
+75,de3a2e09-00f2-4e56-b055-dd5ced351bf1,GREEN_ASIST1,transporter is marked,15:35:00,15:37:00,,28b,2.0,info-provide,
+76,d718cfc9-825b-4c85-949d-035d8a03b75f,GREEN_ASIST1,transporter medic are you going north or south after this room,15:52:00,15:56:00,,29a,,info-request,
+77,22b934b6-32ca-44d3-a483-570d4adbecb0,RED_ASIST1,is a medic I will be going south,15:57:00,15:58:00,,29b,3.0,info-provide,
+78,5e463701-b114-4495-8127-b5ab542dd8d4,GREEN_ASIST1,transporter could you leave the victim outside and Mark him with,16:1,16:6,,30a,,action-directive,
+79,0c743d7e-181c-448b-b928-18a5642cdb4e,GREEN_ASIST1,his type,16:8,16:8,,30a+,,action-directive,
+80,78494c88-b1e3-4c76-912a-29d65784d895,RED_ASIST1,this is medic I already placed him outside through that hole there was an die mark them as critical,16:9,16:14:00,,30b,3.0,info-provide,
+81,a8c92aa9-1026-42a5-afac-c41fb8cdf6b2,GREEN_ASIST1,c,16:16:00,16:16:00,,,,,
+82,a2c6e9d0-8c1e-48f0-adf6-af25895073c7,BLUE_ASIST1,this is engineer I think we should start going to the more concentrated areas to optimize the amount of victims will be able to save be able to save,16:22:00,16:32:00,,31a,,assert,
+83,b7d38324-5b4f-4b1d-b146-e8d74753ab27,RED_ASIST1,this is this is medic will somebody join me in M1,16:31:00,16:35:00,,32a,,action-directive,
+84,12c59e97-edfd-4e49-8fb2-f8d1f8f959f0,BLUE_ASIST1,this is engineer I'm on my way,16:38:00,16:39:00,,32b,2.0,accept,
+85,5a8f5d30-8eed-41d6-b2a3-2350587cd8a5,RED_ASIST1,this is medic transporter whenever you get that victim to Zone B there's a critical that has been marked safe outside of room M3 ready for transport,16:46:00,16:56:00,,33a,,assert,
+86,de66604b-e4d7-4714-87e0-2f41a9d60b9c,GREEN_ASIST1,is it transport I'm on my way to him,16:59:00,17:0,,33b,2.0,accept,
+87,da1002c4-02f7-4138-bf14-6fdb0f8c0320,GREEN_ASIST1,this is transport I'm bringing two regular victims to Southern Zone C to be marked also engineer outside Southern Zone C there's Rubble,17:23:00,17:35:00,,34a,,assert,
+88,0daacd72-6f9f-4400-9fd4-0e5ad5d33fa6,RED_ASIST1,this is medic met somebody join me in room K2 the assessment the critical,17:56:00,18:6,,35a,,action-directive,
+89,526cba0a-6d9c-4fbb-88c6-35a5a5e19ec0,GREEN_ASIST1,this is transport I'm on the way,18:7,18:9,,35b,2.0,accept,
+90,9e3e6a01-0f3e-470e-900a-99d9c06ff4aa,BLUE_ASIST1,this is engineer the South Zone C has been cleared,18:11:00,18:15:00,,36a,,assert,
+91,171877b0-098e-40a5-b266-2da535784eff,RED_ASIST1,this is medic transporter this is a victim a that I put behind you that is more safe,18:17:00,18:22:00,,37a,,assert,
+92,c509fdd3-31e3-45b6-b153-d3712eebd0b3,GREEN_ASIST1,transporter I have,18:19:00,18:25:00,,,,,
+93,5e0ad272-26ba-430d-89d3-77ba4362df66,BLUE_ASIST1,this is engineer are the victims near Zone South Zone C all typed C,18:24:00,18:30:00,,38a,,info-request,
+94,650fca44-477d-4acc-af87-07b8ee21e6f4,GREEN_ASIST1,this is transport - they're not typed at all they're waiting they're awaiting a tape also to engineer transport and medic are both stuck in room K3 K2 SOS is marked,18:30:00,18:47:00,,38b.39a,3.0,info-provide.assert,
+95,70e9c2f7-7785-4b5b-b6c1-c96746a5de14,BLUE_ASIST1,this is engineer I am on my way,18:47:00,18:49:00,,39b,2.0,accept,
+96,16b1e1b9-0fc0-40d1-abd6-56a5d8edd34c,GREEN_ASIST1,I was transported engineer could I get help again another piece though,19:4,19:7,,40a,,action-directive,
+97,55eeae2a-a13c-48ed-b9f9-6bc9872970fe,BLUE_ASIST1,this is engineer on my way,19:9,19:10:00,,40b,2.0,accept,
+98,f51d11f6-02b4-4679-b644-3da05e314376,GREEN_ASIST1,medic can you read type that I forgot that one,19:18:00,19:22:00,,41a,,info-request,
+99,c049dc4e-d759-44df-8fe2-94ac8e9b8dd2,RED_ASIST1,this is medic to,19:59:00,19:59:00,,41b,2.0,info-provide,
+100,8efc7e06-472a-456f-93a1-c87b10a0dd22,RED_ASIST1,order on the South Hall there are two victims that have been marked and are ready for transport,20:2,20:6,,41b+,2.0,info-provide,
+101,5c1e4534-5a80-4e86-a5d3-51ef8b5230b3,GREEN_ASIST1,I was transporting going to room now,20:9,20:10:00,,42a,,assert,
+102,a630a411-0207-4255-a1a3-e59cd0c2f01b,RED_ASIST1,this is medic,20:16:00,20:17:00,,,,,
+103,d47f0482-1547-483e-ba94-de7b28b1d8e2,BLUE_ASIST1,this is engineer what zone are you guys in I want to stay close in case you guys get trapped,20:16:00,20:21:00,,43a,,info-request,
+104,1f47c822-327f-4d8d-b5d9-b7c805d7bddc,RED_ASIST1,this is medic I'm in room K4 and I need assistance giving to the victims,20:21:00,20:26:00,,43b.44a,3.0,info-provide.action-directive,
+105,10447d1f-8dbd-4462-8e88-5a6e5e73d153,BLUE_ASIST1,this is an engineer and I'm on my way,20:29:00,20:31:00,,44b,2.0,accept,
+106,9204c812-2c98-48de-997a-4051fb613270,GREEN_ASIST1,this is transport to Tech I just fell out of it,20:38:00,20:42:00,,,,,post-game
+107,c3f16dec-f248-4dd6-8461-a0ba6fd83418,RED_ASIST1,yeah this is medic I also have fun,20:43:00,20:46:00,,,,,post-game
